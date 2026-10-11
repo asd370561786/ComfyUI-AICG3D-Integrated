@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+h3easy/prompt_optimizer.json
+web/*.log
+*.bak
+*.bak-*
+.venv/
+venv/
+.idea/
+.vscode/
+*.orig
+*.rej
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Logs
+*.log
